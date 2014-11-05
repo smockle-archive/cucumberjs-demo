@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/smockle/cucumberjs-demo/issues"
   },
-  "homepage": "https://github.com/smockle/cucumberjs-demo"
+  "homepage": "https://github.com/smockle/cucumberjs-demo",
+  "devDependencies": {
+    "cucumber": "^0.4.4"
+  }
 }
