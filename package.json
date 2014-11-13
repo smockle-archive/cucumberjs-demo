@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/smockle/cucumberjs-demo",
   "devDependencies": {
-    "cucumber": "^0.4.4"
+    "cucumber": "^0.4.4",
+    "cucumber-assert": "^1.0.1"
   }
 }
